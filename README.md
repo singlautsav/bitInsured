@@ -3,11 +3,11 @@ Blockchain based P2P Insurance protocol
 
 ## Protocol:
 
-There are multiple roles defined in this network which are as follows:
-**Customer** : This is the person who wants to buy insurance for a fixed premium for the next 30 years. 
-**Validator** : This role is of a user who has expertise in checking the document and validating it for the network. Define the risk of user, premium and coverage options for this user.
-**Insurance Backer**: These are users who will be providing Liquidity to the insurance pool, will be voting on terms of validator and be rewarded with liquidity tokens and premium fees.
-**Policy**: There will be multiple policy options available for customers to decide from (Smart contracts) these policies will be curated by validators and insurance backers.
+There are multiple roles defined in this network which are as follows:  
+- **Customer** : This is the person who wants to buy insurance for a fixed premium for the next 30 years.     
+- **Validator** : This role is of a user who has expertise in checking the document and validating it for the network. Define the risk of user, premium and coverage options for this user.  
+- **Insurance Backer**: These are users who will be providing Liquidity to the insurance pool, will be voting on terms of validator and be rewarded with liquidity tokens and premium fees. 
+- **Policy**: There will be multiple policy options available for customers to decide from (Smart contracts) these policies will be curated by validators and insurance backers.  
 
 ![Monthly premium](https://github.com/singlautsav/bitInsured/blob/main/Assets/monthlypremium.jpg)
 
