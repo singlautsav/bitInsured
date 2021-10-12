@@ -9,6 +9,8 @@ There are multiple roles defined in this network which are as follows:
 **Insurance Backer**: These are users who will be providing Liquidity to the insurance pool, will be voting on terms of validator and be rewarded with liquidity tokens and premium fees.
 **Policy**: There will be multiple policy options available for customers to decide from (Smart contracts) these policies will be curated by validators and insurance backers.
 
+![Monthly premium](https://github.com/singlautsav/bitInsured/blob/main/Assets/monthlypremium.jpg)
+
 ## How will this network operate?
 - A customer applies for insurance with the required document, according to the policy they want to adopt.
 - Set of randomly chosen validators will go through the documents, check for its validity and approve or disapprove the request and send the application for approval of Insurance Backers.
@@ -18,3 +20,5 @@ There are multiple roles defined in this network which are as follows:
 - In case of an unfortunate event, the customer will apply for a claim with the required documentation as set by the policy. 
     - The documents will be sent to a randomly chosen set of the validator and due approval will be given by the validators for the documents. 
     - The approval or disapproval will be sent to the network and Insurance backers will release the amount in 24 hours of validators approval.
+
+![Monthly premium](https://github.com/singlautsav/bitInsured/blob/main/Assets/claim.jpg)
